@@ -9,7 +9,7 @@
 
 <img align="center" src="img/capturaDeTela.png" alt="imagem do projeto"/>
 
-#### Clica ne link e divirta-se 👉 <a href="https://arymanreis.github.io/Agendador_de_tarefas/"</a>
+#### Clica ne link e divirta-se 👉 <a href="https://arymanreis.github.io/login_com_gerador_de_senhas/"</a>
 
 #### Tecnologias Usadas no projeto
 
